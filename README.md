@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/inscripted"><img src="https://api.daily.dev/devcards/v2/Gz8LHL027RcngI0aL4C8M.png?type=default&r=lhq" width="356" alt="Inscripted's Dev Card"/></a>
+
 <!--
 **RipScriptos/RipScriptos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
