@@ -1,4 +1,4 @@
-name: update readme
+name: update README
 
 on:
   # run every 24 hours
