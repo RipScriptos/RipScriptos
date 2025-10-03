@@ -58,9 +58,6 @@ Proficient in Lua, Luau, JavaScript, Python, Swift/Xcode
 [![](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/u/Scriptos14)
 
 ---
-![snake commit graph](https://raw.githubusercontent.com/RipScriptos/RipScriptos/refs/heads/snake/ctp-mocha-mauve.svg)
-
----
 
 ### Cards:
 
